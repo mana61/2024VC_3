@@ -1,0 +1,38 @@
+@charset "utf-8";
+body {
+    background-color:red;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.shop {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.cake {
+    width: 25%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    background-color: blueviolet;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.cake img {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
